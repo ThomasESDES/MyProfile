@@ -1,0 +1,12 @@
+.personnalite{
+	margin-bottom: 10px;
+	margin-top: 10px;
+	color: white;
+	font-size: 15px;
+	background: #6FBBC3;
+	font-family: roboto;
+	padding: 30px;
+	border-radius: 8px;
+	text-align: center;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.8);
+}
